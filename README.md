@@ -1,3 +1,3 @@
-# [AAAI 2025] DynASyn:Multi-Subject Personalization enabling Dynamic Action Synthesis
+# [Official Code] DynASyn:Multi-Subject Personalization enabling Dynamic Action Synthesis [AAAI 2025]
 
-Source code will be release soon.
+Source code will be released soon.
